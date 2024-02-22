@@ -13,8 +13,7 @@ for(let i=0; i<s.length; i++){
   res += s.charAt(i);
  }
 }
-	let ans = "";
-	return ans;
+	return res;
 }
 
 // Do not change the code below 
